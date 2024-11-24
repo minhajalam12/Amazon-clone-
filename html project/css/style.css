@@ -1,0 +1,67 @@
+#box1{
+    background-color: rgb(165, 42, 42,0.9);
+    background-size: contain;
+    background-position-x: right;
+    visibility: hidden;
+    
+}
+#box2{
+    color: aquamarine;
+    background-color: rgb(42, 104, 165);
+    text-align: right;
+    
+}
+#box3{
+    color: blueviolet;
+    background-color: rgb(58, 165, 42);
+
+}
+.box{height: 40px; width: 50px;
+    
+}
+#icon{
+    background-image: url(https://cdn.freelogovectors.net/wp-content/uploads/2023/11/phonepe_logo-freelogovectors.net_.png);
+height: 50px;
+width: 50px;
+background-size: contain;
+background-repeat: no-repeat;
+
+
+
+}
+#text{
+    color: brown;
+    text-decoration-line: underline;
+}
+#se{
+    color: aqua;
+    text-decoration-line: line-through;
+    text-decoration-style: wavy;
+    text-transform:uppercase
+    
+}
+.text{
+
+    text-decoration-color: black;
+}
+#font{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+#outer{
+    color: brown;
+  font-size: 40px;
+  background-color: aqua;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-align: center;
+}
+#inner{
+    color: blue;
+  font-size: 60px;
+  background-color: bisque;
+  box-shadow: 0cm;
+  text-align: center;
+  text-transform: lowercase;
+}
+
